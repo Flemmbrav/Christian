@@ -1,3 +1,1 @@
-echovar form = FormApp.create('New Form');
-var item = form.addCheckboxItem();
-trdz
+echovar form = FormApp.create('testform');
